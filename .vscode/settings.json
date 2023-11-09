@@ -1,0 +1,4 @@
+{
+    "ruff.enable": true,
+    "ruff.organizeImports": true,
+}
